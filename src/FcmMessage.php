@@ -282,6 +282,7 @@ class FcmMessage implements Message
         }
 
         return $data;
+    }
 
     /**
      * @return mixed
